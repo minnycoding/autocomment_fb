@@ -1,0 +1,3 @@
+1.Check your Chrome version
+2.Download chrome driver that version.
+3.import chromedriver_win32 to floder
